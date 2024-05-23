@@ -6,3 +6,6 @@ An example of English text tone detection with [Hugging Face](https://huggingfac
 
 
 Tests GitHub Actions
+
+# Install
+For install you need to download project, create venv and execute command: `pip install -r requirements.txt`
